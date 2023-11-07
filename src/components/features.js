@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 import React from "react";
 import {
   PencilIcon,
@@ -53,7 +63,7 @@ const Features = () => {
     left: 0,
     width: "100%",
     height: "100%",
-    backgroundColor: "rgba(0, 0, 0, 0.5)",
+    backgroundColor: "rgba(0.1, 0.1, 0.1, 0.3)",
   };
 
   return (
@@ -65,11 +75,11 @@ const Features = () => {
             <div key={index} className="text-white">
               <div key={index} className="mb-4 text-center">
                 {feature.icon}
-                <h2 className="text-yellow-600 text-2xl font-bold mt-2" style={{ textShadow: "2px 2px 4px rgba(0,0,0,0.8)" }}>
+                <h2 className="text-yellow-600 text-2xl font-bold mt-2" style={{ textShadow: "1px 1px 1px rgba(0,0,0,20)" }}>
                   {feature.title}
                 </h2>
               </div>
-              <h3 className="text-lg font-semibold text-white" style={{ textShadow: "2px 2px 4px rgba(0,0,0,0.8)" }}>
+              <h3 className="text-lg font-semibold text-yellow-600" style={{ textShadow: "1px 1px 1px rgba(0,0,0,20)" }}>
                 {feature.content}
               </h3>
             </div>
