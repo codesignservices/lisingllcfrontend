@@ -11,7 +11,7 @@ const AboutUs = () => {
           Our experience and proven track record make us well-equipped to manage
           your recovery case. Our success can be attributed to our dedicated
           team, which includes licensed investigators, research analysts,
-          satellite notaries, and a qualified attorney.
+          mobile notaries, and a qualified attorney.
         </p>
       </div>
     </div>

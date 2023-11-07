@@ -6,10 +6,10 @@ import Meeting from "../assets/meeting.jpg";
 
 const servicesData = [
   {
-    title: "State Relinquishment",
+    title: "Unclaimed State Funds",
     image: Calculator,
     content:
-      "State agencies retain your funds to accumulate interest, which benefits them. We advocate that your money requires prompt attention.",
+      "The State holds property that has not been claimed by the rightful owner. In some cases the property is only held for a certain period of time before the funds/property become the states for Governmental use. We ensure diligent and accurate filing of our clients’ claims, streamlining the process.",
   },
   {
     title: "Bankruptcy Surplus Recovery",
