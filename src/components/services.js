@@ -9,7 +9,7 @@ const servicesData = [
     title: "Unclaimed State Funds",
     image: Calculator,
     content:
-      "The State holds property that has not been claimed by the rightful owner. In some cases the property is only held for a certain period of time before the funds/property become the states for Governmental use. We ensure diligent and accurate filing of our clients’ claims, streamlining the process.",
+      "The State holds property that has not been claimed by the rightful owner. In some cases the property is only held for a certain period of time before the funds/property become the State's for Governmental use. We ensure diligent and accurate filing of our clients’ claims, streamlining the process.",
   },
   {
     title: "Bankruptcy Surplus Recovery",
