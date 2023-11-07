@@ -45,7 +45,7 @@ const ContactForm = () => {
 
         <p className="text-lg mb-4">
           Initiate the process of reclaiming what is rightfully yours by
-          reaching out to Omnia Refund Firm today. Our experienced professionals
+          reaching out to Legacy Rising LLC today. Our experienced professionals
           will lead you through the process with meticulous attention and
           unwavering commitment.
         </p>

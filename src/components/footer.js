@@ -35,7 +35,7 @@ const Footer = () => {
               <p className="text-lg text-yellow-900">Lakewood, CO 80226</p>
               <p className="text-lg text-yellow-900">+1-720-621-7056</p>
               <p className="text-lg text-yellow-900">
-                info@omniarefundfirm.com
+                jdotson@legacyrisingllc.com
               </p>
             </div>
           </div>
