@@ -61,7 +61,7 @@ const Testimonials = () => {
       <div className="container mx-auto text-center relative z-10">
         <div className="relative mx-auto max-w-md md:max-w-lg lg:max-w-2xl">
           <button
-            className="absolute top-1/2 left-0 transform -translate-y-1/2 translate-x-4/2 -translate-x-2 w-10 h-10 text-white bg-yellow-600 rounded-full z-10 md:left-2 lg:left-4"
+            className="absolute top-1/2 left-0 transform -translate-y-1/2 translate-x-5/2 -translate-x-3 w-10 h-10 text-white bg-yellow-600 rounded-full z-10 md:left-2 lg:left-4"
             onClick={prevTestimonial}
           >
             &lt;
@@ -75,7 +75,7 @@ const Testimonials = () => {
             </p>
           </div>
           <button
-            className="absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-4/2 w-10 h-10 text-white bg-yellow-600 rounded-full z-10 md:right-2 lg:right-4"
+            className="absolute top-1/2 right-0 transform -translate-y-1/2 -translate-x-5/2 translate-x-3 w-10 h-10 text-white bg-yellow-600 rounded-full z-10 md:right-2 lg:right-4"
             onClick={nextTestimonial}
           >
             &gt;
