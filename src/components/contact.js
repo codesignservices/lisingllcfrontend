@@ -89,19 +89,7 @@ const ContactForm = () => {
           </div>
 
           <div className="mb-4 flex flex-col lg:flex-row">
-            <div className="w-full lg:w-1/2 mb-4 lg:mb-0">
-              <label htmlFor="country" className="block text-yellow-600">
-                Country
-              </label>
-              <input
-                type="text"
-                id="country"
-                name="country"
-                className="mt-1 p-2 border rounded w-full"
-                onChange={handleInputChange}
-              />
-            </div>
-            <div className="w-full lg:w-1/2 ml-0 lg:ml-2">
+          <div className="w-full lg:w-1/2 mb-4 lg:mb-0">
               <label htmlFor="state" className="block text-yellow-600">
                 State
               </label>
@@ -113,6 +101,18 @@ const ContactForm = () => {
                 onChange={handleInputChange}
               />
             </div>
+            <div className="w-full lg:w-1/2 ml-0 lg:ml-2">
+              <label htmlFor="country" className="block text-yellow-600">
+                Country
+              </label>
+              <input
+                type="text"
+                id="country"
+                name="country"
+                className="mt-1 p-2 border rounded w-full"
+                onChange={handleInputChange}
+              />
+            </div> 
           </div>
 
           <div className="mb-4 flex flex-col lg:flex-row">
