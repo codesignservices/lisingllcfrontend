@@ -103,7 +103,7 @@ const ContactForm = () => {
             </div>
             <div className="w-full lg:w-1/2 ml-0 lg:ml-2">
               <label htmlFor="country" className="block text-yellow-600">
-                Country
+                County
               </label>
               <input
                 type="text"
