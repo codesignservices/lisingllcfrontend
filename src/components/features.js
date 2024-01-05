@@ -16,7 +16,7 @@ const Features = () => {
       icon: (
         <PencilIcon className="w-16 h-16 text-yellow-600 mx-auto border border-white rounded-full p-3" />
       ),
-      title: "Experience a top-notch recovery service that simplifies and streamlines the funds reclaiming process!",
+      title: "White Collar Service",
       content:
         "Top tier recovery experience making the process to reclaim funds simple and easy!",
     },
