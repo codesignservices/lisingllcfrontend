@@ -18,7 +18,8 @@ const Features = () => {
       ),
       title: "White Collar Service",
       content:
-        "Top tier recovery experience making the process to reclaim funds simple and easy!",
+        "Experience a top-notch recovery service that simplifies and streamlines the funds reclaiming process!",
+        //"Top tier recovery experience making the process to reclaim funds simple and easy!",
     },
     {
       icon: (
