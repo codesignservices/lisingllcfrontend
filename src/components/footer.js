@@ -33,7 +33,7 @@ const Footer = () => {
                 98 Wadsworth Blvd Unit 127 PMB 5146
               </p>
               <p className="text-lg text-yellow-900">Lakewood, CO 80226</p>
-              <p className="text-lg text-yellow-900">+1-720-621-7056</p>
+              <p className="text-lg text-yellow-900">+1 213-584-5004</p>
               <p className="text-lg text-yellow-900">
                 jdotson@legacyrisingllc.com
               </p>
